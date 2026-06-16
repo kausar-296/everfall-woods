@@ -42,7 +42,7 @@ Expect bugs, unfinished features, and changes.
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
 _Will be added here later_
 
