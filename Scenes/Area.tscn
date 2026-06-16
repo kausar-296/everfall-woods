@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://cwnj80wdd3bjc"]
+
+[ext_resource type="PackedScene" uid="uid://bvjy1g05j7j31" path="res://Scenes/Floor.tscn" id="1_ft1dx"]
+[ext_resource type="PackedScene" uid="uid://c8xxlth4jfjpw" path="res://Scenes/Wall.tscn" id="2_aesbc"]
+
+[node name="Area" type="Node3D" unique_id=2027740544]
+
+[node name="Floor" parent="." unique_id=596013408 instance=ExtResource("1_ft1dx")]
+
+[node name="Wall" parent="." unique_id=1365426060 instance=ExtResource("2_aesbc")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -50, 5, 0)
+
+[node name="Wall2" parent="." unique_id=316256382 instance=ExtResource("2_aesbc")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 50, 5, 0)
+
+[node name="Wall3" parent="." unique_id=354259043 instance=ExtResource("2_aesbc")]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 0, 5, 50)
+
+[node name="Wall4" parent="." unique_id=487795698 instance=ExtResource("2_aesbc")]
+transform = Transform3D(-4.371139e-08, 0, 1, 0, 1, 0, -1, 0, -4.371139e-08, 0, 5, -50)
