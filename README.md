@@ -7,7 +7,7 @@ A game currently being developed using **Godot Engine**.
 ## 📱 Download
 
 👉 Latest APK:  
-[⬇️ Download the game]([https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/everfall.apk](https://github.com/kausar-296/everfall-woods/releases/tag/v0.0.1))
+[⬇️ Download the game](https://github.com/kausar-296/everfall-woods/releases/tag/v0.0.1)
 
 ---
 
